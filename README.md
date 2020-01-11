@@ -1,4 +1,4 @@
-# Tax-Free Savings Account Calcualtor
+# Tax-Free Savings Account Calcluator
 
 The project here is a calculator for calculating one's contribution limit as of the 2020 year. This is a personal project. This is also my first project I have created alone on github, please forgive me for any difficulties. This is also my first time coding in java for myself. I compiled this on Linux, so my steps on how to run this is only for Linux.
 
