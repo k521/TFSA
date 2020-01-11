@@ -34,7 +34,7 @@ Voila! You should be able to try the program now on the terminal.
 
 * The people who created Java
 * The peopel who created Visual Studio Code
-* My Professors
+* My professors
 * My parents
 
 
